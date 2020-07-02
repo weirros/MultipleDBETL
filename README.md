@@ -1,5 +1,5 @@
 # MultipleDBETL
-AP BO,集团多帐套取数工具；
+SAP BO,集团多帐套取数工具；
 
 目前是用pd的写excel方法，有复制到多个DW的部分；本项目里并没有包括这个内容；
 
